@@ -1,0 +1,10 @@
+(ROOT
+  (NP
+    (NP (NP (NNS ls)) (NP (JJ fi-g-e) (NNS 2s)))
+    (: :)
+    (NP (NP (JJ fe-g-a) (NNS 3s)) (NP (NNS fi-qi)))
+    (. .)))(NP
+  (NP (NP (NNS ls)) (NP (JJ fi-g-e) (NNS 2s)))
+  (: :)
+  (NP (NP (JJ fe-g-a) (NNS 3s)) (NP (NNS fi-qi)))
+  (. .))(NP (NP (NNS ls)) (NP (JJ fi-g-e) (NNS 2s)))(NP (NNS ls))(NNS ls)(NP (JJ fi-g-e) (NNS 2s))(JJ fi-g-e)(NNS 2s)(: :)(NP (NP (JJ fe-g-a) (NNS 3s)) (NP (NNS fi-qi)))(NP (JJ fe-g-a) (NNS 3s))(JJ fe-g-a)(NNS 3s)(NP (NNS fi-qi))(NNS fi-qi)(. .)
